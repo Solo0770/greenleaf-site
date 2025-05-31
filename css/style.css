@@ -23,6 +23,8 @@ main {
   flex: 1;
 }
 
+
+
 a {
   text-decoration: none;
   color: inherit;
@@ -453,6 +455,9 @@ footer {
     font-size: 0.9rem;
   }
 }
+
+
+
 
 
 
